@@ -1,3 +1,4 @@
+```bash
 rakshitrohilla@github
 
 __________________________________________
@@ -40,8 +41,8 @@ __________________________________________
 
 Contact:
 
-GitHub:https://github.com/rakshitrohilla
-Website:https://rakshitrohilla.vercel.app/
-Linkedin:https://www.linkedin.com/in/rakshit-rohilla-083656248/
+GitHub: https://github.com/rakshitrohilla
+Website: https://rakshitrohilla.vercel.app
+LinkedIn: https://www.linkedin.com/in/rakshit-rohilla-083656248/
 
 __________________________________________
