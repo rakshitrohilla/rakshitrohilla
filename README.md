@@ -3,11 +3,11 @@ rakshitrohilla@github
 
 __________________________________________
 
-OS: Linux
+OS: Ubuntu
 Role: Software Engineer
 Field: Backend / Systems / AI
-Editor: Neovim / VS Code
-Location: India
+Editor: Sublime text  / VS Code
+Location: Delhi,India
 
 __________________________________________
 
